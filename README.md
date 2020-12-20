@@ -1,4 +1,5 @@
 # Bridging the Gap Between Designers & Engineers (a How-to Guide for Designers)
+![Green and blue cover image of the guide with the title text of "Bridhing the Gap Between Designers & Engineers, a how-to guide for designers". Small font in the top right corner says "Sara Cagle 2020"](https://raw.githubusercontent.com/Sara-Cagle/BridgingTheGapBetweenDesignersAndEngineers/main/Pages/Cover.jpg)
 ## This guide is designed to inform designers how to better build empathy with their development/engineering counterparts.
 
 
@@ -8,7 +9,7 @@
    * [The Figma file that designers can download and build off of to grow their own guide (will download directly)](https://github.com/Sara-Cagle/BridgingTheGapBetweenDesignersAndEngineers/raw/main/Bridging%20the%20Gap%20Between%20Designers%20%26%20Engineers.fig)
    * [A folder with each page of the PDF saved as an image](https://github.com/Sara-Cagle/BridgingTheGapBetweenDesignersAndEngineers/tree/main/Pages)
    
-*(Github is confusing for first-time users. All of the listed items can also be seen in the file list above.  Please feel free to explore! Everything here is public for you to view.)*
+*(First time on Github? Welcome! All of the linked listed items can also be seen in the file list above.  Please feel free to explore! Everything here is public for you to view.)*
    
 
 **Guide Introduction:**
@@ -33,5 +34,5 @@ Want to read more as a text-based article instead of a PDF guide? [Read my Mediu
 
 
 ## This guide also needs a counterpart for how engineers can better work with designers!
-Are you interested in collaborating? Please reach out! 
+Are you interested in collaborating, or have you already made one? Please reach out! 
 **Email me at sacagle@uw.edu**
